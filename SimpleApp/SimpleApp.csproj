@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
-    <PackageReference Include="TestLib" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
