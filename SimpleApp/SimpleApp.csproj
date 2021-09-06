@@ -8,4 +8,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="TestLib">
+      <HintPath>..\..\PrivateReference\TestLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
